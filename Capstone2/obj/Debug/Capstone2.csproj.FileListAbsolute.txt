@@ -1,0 +1,17 @@
+C:\Users\Jezdakil\source\repos\Capstone2\bin\Debug\Capstone2.exe.config
+C:\Users\Jezdakil\source\repos\Capstone2\bin\Debug\Capstone2.exe
+C:\Users\Jezdakil\source\repos\Capstone2\bin\Debug\Capstone2.pdb
+C:\Users\Jezdakil\source\repos\Capstone2\bin\Debug\Guna.UI2.dll
+C:\Users\Jezdakil\source\repos\Capstone2\obj\Debug\Capstone2.csproj.AssemblyReference.cache
+C:\Users\Jezdakil\source\repos\Capstone2\obj\Debug\Capstone2.Client.resources
+C:\Users\Jezdakil\source\repos\Capstone2\obj\Debug\Capstone2.Employee.resources
+C:\Users\Jezdakil\source\repos\Capstone2\obj\Debug\Capstone2.LoginF.resources
+C:\Users\Jezdakil\source\repos\Capstone2\obj\Debug\Capstone2.Properties.Resources.resources
+C:\Users\Jezdakil\source\repos\Capstone2\obj\Debug\Capstone2.csproj.GenerateResource.cache
+C:\Users\Jezdakil\source\repos\Capstone2\obj\Debug\Capstone2.csproj.CoreCompileInputs.cache
+C:\Users\Jezdakil\source\repos\Capstone2\obj\Debug\Capstone2.csproj.Up2Date
+C:\Users\Jezdakil\source\repos\Capstone2\obj\Debug\Capstone2.exe
+C:\Users\Jezdakil\source\repos\Capstone2\obj\Debug\Capstone2.pdb
+C:\Users\Jezdakil\source\repos\Capstone2\obj\Debug\Capstone2.RequestBooking.resources
+C:\Users\Jezdakil\source\repos\Capstone2\obj\Debug\Capstone2.Frm_RequestList.resources
+C:\Users\Jezdakil\source\repos\Capstone2\obj\Debug\Capstone2.Reschedule.resources
